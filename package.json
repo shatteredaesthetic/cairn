@@ -1,0 +1,15 @@
+{
+  "name": "cairn",
+  "version": "0.0.1",
+  "description": "concatenative array-based programming language, for fun",
+  "main": "src/repl.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "Jason Polhemus <urtopia@tuta.io>",
+  "license": "ISC"
+}
